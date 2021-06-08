@@ -1,6 +1,9 @@
 # OCPimmersion
 Immersion Cooling Design with immersion tanks from Submer
 
+![Screenshot from 2021-06-08 16-08-12](https://user-images.githubusercontent.com/79994626/121203380-57d1de80-c876-11eb-8fae-bd11de6dd593.png)
+
+
 After of decade of trying to run more efficient Data Center it is time to tackle the elefphant in the room.
 
 #Physical infrastructure from steel and concrete is a massive CO2 issue.
@@ -15,9 +18,9 @@ Short spec:
 
 Physical wooden Infrastructure 3990 mm x 3990 mm x 3990 mm Tier 3 ready F90 fire protection With DC Security doors Siemens DCIM with early smoke detection 100 KW total DC power for 2 Smartpods XL OCP Edition
 
-Further information:
+Further information and CAD Models:
 
-https://kow-mdc.com/
+https://grabcad.com/library/wooden-data-center-ocp-immersion-cooling-1
 
 Feel free to reach out:
 
